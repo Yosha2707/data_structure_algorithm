@@ -1,0 +1,25 @@
+01. Recursion -> 1
+02. Recursion -> 2
+03. OOPS -> 1
+04. OOPS -> 2
+05. OOPS -> 3
+06. Time Complexity Analysis 
+07. Space Complexity Analysis
+08. Linked List -> 1
+09. Linked List -> 2
+10. Stacks
+11. Queues
+12. Binary Trees -> 1
+13. Binary Trees -> 2
+14. BST -> 1
+15. BST -> 2
+16. Generic Trees
+17. Dictionaries/Maps
+18. Priority Queues -> 1
+19. Priority Queues -> 2
+20. Huffman Coding
+21. DP -> 1
+22. DP -> 2
+23. Backtracking 
+24. Graphs -> 1
+25. Graphs -> 2
